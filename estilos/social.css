@@ -6,11 +6,10 @@
 }
 
 * {
+    margin: 0;
+    padding: 0;
     width: 100vw;
-    height: 100vh;
-    background: black;
-    background: url(imagens/insta.jpg) no-repeat top center;
-    background-size: cover;
+   
 }
 
 .instagram {
