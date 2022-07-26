@@ -8,11 +8,27 @@
 * {
     margin: 0;
     padding: 0;
-    width: 100vw;
+    font-family: Arial, Helvetica, sans-serif;
    
 }
 
-.instagram {
+.img-instagram {
+    width: 100%;
+
+}
+
+.link-instagram {
+    display: block;
+    padding: 20px;
+    text-align: center;
+    background: #0095F6;
+    text-transform:uppercase;
+    font-size: bold;
+    text-decoration: none;
+    color: beige;
+}
+
+.link-whats {
     display: block;
     padding: 20px;
     text-align: center;
